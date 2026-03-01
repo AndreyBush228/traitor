@@ -1,4 +1,4 @@
-111111111# Traitor
+68795432111111111# Traitor
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
